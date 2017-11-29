@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Barlow');
+* {
+    padding: 0px;
+    margin: 0px;
+}
+#clock {
+    color: gray;
+    text-shadow: 5px 5px 10px black;
+    font-size: 85px;
+    font-family: Barlow;
+    position: absolute;
+    z-index: 5;
+    top: 41%;
+    left: 45%;
+}
+.vid {
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}
+video {
+    height: 1080px;
+    width: auto;
+}
