@@ -1,0 +1,9 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+svg {
+    height: 75vh;
+    width: 100vw;
+}
